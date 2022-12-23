@@ -1,2 +1,3 @@
-# frail
-Functional error handling in TypeScript based on the Either monad.
+# Frail
+
+Functional error handling for TypeScript based on the Either monad.
